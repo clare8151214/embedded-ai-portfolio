@@ -1,0 +1,12 @@
+.pio
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
+
+# Local credentials and unsuccessful empty capture (keep evidence logs tracked).
+.env
+.env.*
+*.pem
+*.key
+logs/device-monitor-260930-200551.log

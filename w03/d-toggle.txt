@@ -1,0 +1,2 @@
+L2 digitalWrite : 63385 us for 100000 toggles -> 1577.66 kHz
+L3 register     : 12602 us for 100000 toggles -> 7935.25 kHz
