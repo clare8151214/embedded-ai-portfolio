@@ -42,3 +42,7 @@ I completed the observed and clock fields, updated the cross-check and method no
 ## 2026-10-19 Figures correction
 
 At the student's request, Codex replaced text-only figure bodies with actual saved-log/application screenshots and original PDF excerpts. Seven Notepad screenshots show the original scan, analysis output, both init runs, verbatim build endings, complete crosscheck output and stream rows. Four source PDF excerpts substantiate the four constants; separated page regions are disclosed in their captions. The existing three physical PulseView screenshots remain. No new hardware data were taken and no original measurement log changed. All 13 revised Word pages were rendered and visually reviewed. Images and source hashes are in w05/figures/.
+
+## 2026-10-19 Figure 7b revision
+
+At the student's request, Codex reopened the existing physical capture in PulseView, labelled D0 as SDA and D1 as SCL, hid unused channels, and made three genuine screenshots: gap overview, final configuration STOP, and first 0x3B-read START. A composite stacks unscaled crops with headings outside the screenshots and discloses the different time scales. Full originals and hashes are in w05/figures/. Only Figure 7b image, caption, alt text and dimensions changed in the homework. All 13 pages were rendered and inspected. Raw measurements were unchanged.

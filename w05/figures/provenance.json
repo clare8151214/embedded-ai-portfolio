@@ -135,7 +135,64 @@
     "method": "Original PDF page regions rendered directly; pp. 14 and 15 each combine two separated original regions, as stated in captions. No table text recreated."
   },
   "measurements_changed": false,
-  "final_docx_sha256": "aebd58592a4950f6b5889dcef815c1e139b4dd3311cdfc5cc103c4a9c85ec86d",
+  "final_docx_sha256": "ffc151a1fe1b31956088bff3abb7653a4ab77fc4e4dd588bd1fafc8d98af2678",
   "pages": 13,
-  "embedded_images": 14
+  "embedded_images": 14,
+  "gap_figure_revision": {
+    "date": "2026-10-19",
+    "source_capture": "w05/whoami.sr",
+    "source_sha256": "c1a7bdd616a696515dcc481d9a1c7ffb9fd8f46dc0a3981ec39181078371d696",
+    "method": "Three genuine PulseView window screenshots of the existing physical capture, taken through Windows Computer Use. D0 and D1 renamed SDA (D0) and SCL (D1), unused channels hidden, interval-only cursor display. Three unscaled rectangular crops stacked with descriptive headings outside the source pixels. Different overview/detail scales disclosed. No waveform pixels or measured values recreated.",
+    "crop_each": {
+      "x": 5,
+      "y": 100,
+      "width": 710,
+      "height": 128
+    },
+    "cursor_a_s": 2.349362,
+    "cursor_b_s": 2.37939,
+    "gap_us": 30028,
+    "screenshot_originals": [
+      "gap-overview-full.jpg",
+      "gap-config-stop-full.jpg",
+      "gap-read-start-full.jpg"
+    ],
+    "assets": [
+      {
+        "file": "gap-figure-7b.png",
+        "sha256": "6f9df4a17228613c42ee7db568e7b7f549e9381bbc1f9e01e723b11960f43e20",
+        "bytes": 344661
+      },
+      {
+        "file": "gap-overview.png",
+        "sha256": "20bbe68bd3c16a51a391d0385c2cb90a86bae11e7daa115a0f45c7b3435312dc",
+        "bytes": 61346
+      },
+      {
+        "file": "gap-config-stop.png",
+        "sha256": "d7db41ba2f83eb1dedcb34628d34cc45c18596bcc7c217023030b663ecf8e344",
+        "bytes": 122487
+      },
+      {
+        "file": "gap-read-start.png",
+        "sha256": "f8ef42c4a750c3844fff78dbf41729e5a2aba18502a9eabb1892db1ecd45730d",
+        "bytes": 150499
+      },
+      {
+        "file": "gap-overview-full.jpg",
+        "sha256": "6b124098c17971d971e0119fd27e15492323f26bd6e456cb8116bd05de89c9b5",
+        "bytes": 64900
+      },
+      {
+        "file": "gap-config-stop-full.jpg",
+        "sha256": "a5e7d9b64472ba81fc44601e21957b92eba1ff9cf0f378a8d2be522a52ee30e1",
+        "bytes": 76989
+      },
+      {
+        "file": "gap-read-start-full.jpg",
+        "sha256": "fd22c26dc82e507a73130a1a65bab643c53e2b0a2695c44c9f6ea8885a8f95a3",
+        "bytes": 99808
+      }
+    ]
+  }
 }

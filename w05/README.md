@@ -50,3 +50,5 @@ Native PulseView 仍無法直接開啟這台 FX2，錯誤是 Failed to open devi
 ## 繳交狀態
 
 文件、實驗資料、波形、討論與兩筆 AI 使用紀錄已完成。本機 Git 提交與遠端推送是不同步驟；實際 commit hash 另見本機收尾狀態。尚未取得課程繳交網址，這次尚未送出 Google Form／課程作業。GitHub 存檔也不能當作已送出課程表單。
+
+Figure 7b has been revised with an overview and both endpoint zooms: [standalone PNG](figures/gap-figure-7b.png). The three genuine full screenshots and source hashes are retained in figures/. The same physical capture and 30028 us interval are unchanged.

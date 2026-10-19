@@ -256,3 +256,5 @@ cost to add — **with your own numbers in the sentence.**
 Files in the repo the same day. The analyser goes back in the box with its clips.
 
 **2026-10-19 Figures correction:** The homework now embeds images in every Figures box: seven saved-log/application screenshots, four original datasheet excerpts and the three existing physical PulseView screenshots. Captions identify reopened logs and original PDF pages. Measured values and source logs are unchanged.
+
+**Figure 7b revision (2026-10-19):** A new genuine PulseView overview and endpoint zooms show SDA/D0, SCL/D1 and I2C decoding. The same captured STOP-to-START interval remains 30028 us. Figure and full screenshot originals are in w05/figures/.
