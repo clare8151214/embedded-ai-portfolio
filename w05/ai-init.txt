@@ -1,0 +1,23 @@
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce3808,len:0x4bc
+load:0x403c9700,len:0xbd8
+load:0x403cc700,len:0x2a0c
+entry 0x403c98d0
+who_am_i=0x68
+accel_cfg=0x00 gyro_cfg=0x00
+gap_us=1
+frame,raw_x,raw_y,raw_z,g_x,g_y,g_z
+0,0,0,0,0.000,0.000,0.000
+1,0,0,0,0.000,0.000,0.000
+2,0,0,0,0.000,0.000,0.000
+3,0,0,0,0.000,0.000,0.000
+4,0,0,0,0.000,0.000,0.000
+5,0,0,0,0.000,0.000,0.000
+6,0,0,0,0.000,0.000,0.000
+7,0,0,0,0.000,0.000,0.000
+8,0,0,0,0.000,0.000,0.000
+9,0,0,0,0.000,0.000,0.000

@@ -1,0 +1,39 @@
+{
+  "client_date": "2026-10-19",
+  "capture_file": "C:\\Users\\User\\Documents\\PlatformIO\\Projects\\W05_student_pack\\w05\\whoami-20261019-165030.sr",
+  "method": "Physical FX2 asynchronous USB capture via libusb 1.0.30; PulseView native open failed",
+  "sample_rate_hz": 2000000,
+  "sample_count": 10000000,
+  "duration_s": 5.0,
+  "channels": {
+    "0": "FX2 D0",
+    "1": "FX2 D1",
+    "2": "FX2 D2",
+    "3": "FX2 D3",
+    "4": "FX2 D4",
+    "5": "FX2 D5",
+    "6": "FX2 D6",
+    "7": "FX2 D7"
+  },
+  "expected_wiring_not_assumed_verified": {
+    "D0": "GPIO8/SDA",
+    "D1": "GPIO9/SCL"
+  },
+  "firmware_version": [
+    1,
+    4
+  ],
+  "start_command_hex": "400017",
+  "libusb_version": "Version(major=1, minor=0, micro=30, nano=12037, rc=b'', describe=b'https://libusb.info')",
+  "dll_sha256": "7cbf37e76dae9c840c7e8dbf7348ee8897dcc86c8ba45e46ada60b89411569f7",
+  "raw_sha256": "c63656da3f7d415115d6341c73cb63236586fbf814927b2c5f2ddc2012ae53a8",
+  "serial_sha256": "06de46f94a67e8607772dff0cec1a23d8efbc570d37687bae067114ffc906e91",
+  "host_capture_elapsed_s": 5.014999999999418,
+  "usb_errors": [],
+  "serial_errors": [],
+  "complete": true,
+  "sources": [
+    "https://github.com/sigrokproject/libsigrok/blob/master/src/hardware/fx2lafw/protocol.c",
+    "https://sigrok.org/wiki/File_format:Sigrok/v2"
+  ]
+}

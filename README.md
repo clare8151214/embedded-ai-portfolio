@@ -1,3 +1,9 @@
+# W05 作業入口
+
+[W05 完整紀錄、Homework 5 與實體 FX2 波形](w05/README.md)。W05 專案在 `w05/project/`，原有 W03 專案與資料保留如下。
+
+---
+
 # W03 Student Pack — Timing, Timers & Sampling Jitter
 
 ## W03 作業入口（2026-09-30 整理）

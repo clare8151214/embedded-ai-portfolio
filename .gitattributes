@@ -1,3 +1,10 @@
 # Preserve serial capture bytes, including their original line endings.
 logs/*.log -text -whitespace
 w03/*.txt -text -whitespace
+
+# Preserve W05 evidence and the file hashes listed in w05/SHA256SUMS.txt.
+w05/** -text -whitespace
+sketches/w05/** -text
+scripts/bus_table.py -text
+scripts/crosscheck.py -text
+scripts/analyse_capture.py -text

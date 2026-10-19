@@ -1,0 +1,25 @@
+{
+  "source_capture": "whoami-20261019-165030.sr",
+  "sample_rate_hz": 2000000,
+  "scl": {
+    "cursor_a_s": 2.347412,
+    "cursor_b_s": 2.347422,
+    "sample_a": 4694824,
+    "sample_b": 4694844,
+    "readout_period_us": 10.0,
+    "readout_frequency_khz": 100.0,
+    "screenshot": "scl-period-cursors.png"
+  },
+  "gap": {
+    "cursor_a_s": 2.349362,
+    "cursor_b_s": 2.37939,
+    "sample_a": 4698724,
+    "sample_b": 4758780,
+    "readout_ms": 30.028,
+    "readout_us": 30028.0,
+    "a_meaning": "STOP of final write: D0 38 01",
+    "b_meaning": "START of first output register read: D0 3B",
+    "screenshot": "gap-cursors.png"
+  },
+  "method": "Edge sample positions extracted from physical capture; PulseView cursor positions entered at those exact edges; displayed readouts checked; full unmodified screenshots retained. Document crops only remove surrounding UI/blank area."
+}

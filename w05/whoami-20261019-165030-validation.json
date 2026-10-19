@@ -1,0 +1,29 @@
+{
+  "physical_capture": true,
+  "whoami_read_bytes": [
+    209,
+    104
+  ],
+  "whoami_ok": true,
+  "analyser_first_frame": [
+    718,
+    -466,
+    9144
+  ],
+  "same_run_serial_first_frame": [
+    718,
+    -466,
+    9144
+  ],
+  "first_frame_matches": true,
+  "board_gap_us": 29974,
+  "analyser_gap_us": 30028.0,
+  "difference_us": 54.0,
+  "difference_percent": 0.18015613531727498,
+  "scl_period_us": 10.0,
+  "scl_frequency_hz": 100000.0,
+  "verdict": "AGREE",
+  "native_pulseview_open": "Failed to open device / generic/unspecified error",
+  "capture_method": "FX2 asynchronous USB through official libusb 1.0.30; decoded in PulseView",
+  "capture_sha256": "c1a7bdd616a696515dcc481d9a1c7ffb9fd8f46dc0a3981ec39181078371d696"
+}

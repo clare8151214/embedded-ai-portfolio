@@ -1,0 +1,51 @@
+{
+  "capture": "w05\\whoami.sr",
+  "serial": "w05\\whoami-20261019-165030-serial.txt",
+  "sample_rate_hz": 2000000.0,
+  "sample_count": 10000000,
+  "sample_resolution_us": 0.5,
+  "capture_sha256": "c1a7bdd616a696515dcc481d9a1c7ffb9fd8f46dc0a3981ec39181078371d696",
+  "raw_sha256": "c63656da3f7d415115d6341c73cb63236586fbf814927b2c5f2ddc2012ae53a8",
+  "serial_sha256": "06de46f94a67e8607772dff0cec1a23d8efbc570d37687bae067114ffc906e91",
+  "whoami_wire_hex": [
+    "D0",
+    "75",
+    "D1",
+    "68"
+  ],
+  "whoami_ack_sequence": [
+    "ACK",
+    "ACK",
+    "ACK",
+    "NACK"
+  ],
+  "whoami_duration_us": 408.0,
+  "scl_cursor_samples": [
+    4694824,
+    4694844
+  ],
+  "scl_period_us": 10.0,
+  "scl_frequency_hz": 100000.0,
+  "first_byte_median_period_us": 10.0,
+  "gap_cursor_samples": [
+    4698724,
+    4758780
+  ],
+  "board_gap_us": 29974,
+  "analyser_gap_us": 30028.0,
+  "difference_us": 54.0,
+  "difference_percent": 0.18015613531727498,
+  "tolerance_us": 599.48,
+  "verdict": "AGREE",
+  "analyser_first_frame": [
+    718,
+    -466,
+    9144
+  ],
+  "serial_first_frame": [
+    718,
+    -466,
+    9144
+  ],
+  "first_frame_matches": true
+}
