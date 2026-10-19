@@ -1,0 +1,14 @@
+Sketch 3 (saved 2026-10-15 build log)
+RAM:   [=         ]   5.7% (used 18760 bytes from 327680 bytes)
+Flash: [=         ]   8.5% (used 283877 bytes from 3342336 bytes)
+========================= [SUCCESS] Took 15.09 seconds =========================
+
+Sketch 4 - blanks zero (saved 2026-10-15 build log)
+RAM:   [=         ]   5.7% (used 18760 bytes from 327680 bytes)
+Flash: [=         ]   8.5% (used 284969 bytes from 3342336 bytes)
+========================= [SUCCESS] Took 11.32 seconds =========================
+
+Sketch 4 - filled (saved 2026-10-15 build log)
+RAM:   [=         ]   5.7% (used 18760 bytes from 327680 bytes)
+Flash: [=         ]   8.5% (used 284969 bytes from 3342336 bytes)
+========================= [SUCCESS] Took 11.30 seconds =========================

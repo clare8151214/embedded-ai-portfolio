@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-19",
+  "application_screenshots": [
+    {
+      "file": "scan-screenshot.png",
+      "method": "Actual Windows Notepad screenshot; cropped to document content",
+      "crop": [
+        5,
+        75,
+        810,
+        505
+      ],
+      "size": [
+        805,
+        430
+      ],
+      "source_file": "w05/scan.txt",
+      "source_sha256": "9942f303ebc5de853e487e57da19a4ed9f690c45d3fcb5d78f85ab1aaaa27254",
+      "image_sha256": "dd1fb35ef3edf692bc846243e3bcf1e8944549f8a4d34f56d8ba285f16351827"
+    },
+    {
+      "file": "bus-table-screenshot.png",
+      "method": "Actual Windows Notepad screenshot; cropped to document content",
+      "crop": [
+        5,
+        75,
+        1535,
+        540
+      ],
+      "size": [
+        1530,
+        465
+      ],
+      "source_file": "w05/buses.txt",
+      "source_sha256": "bcf2bf77775e542fc430a0dd2776d2a67a82e53dbac21cc3160215f6fb46c45b",
+      "image_sha256": "c1f8718df40e173c177d79c697076490cbe7c07a7bdff2e4d634e0c83771bc15"
+    },
+    {
+      "file": "ai-init-screenshot.png",
+      "method": "Actual Windows Notepad screenshot; cropped to document content",
+      "crop": [
+        5,
+        398,
+        595,
+        750
+      ],
+      "size": [
+        590,
+        352
+      ],
+      "source_file": "w05/ai-init.txt",
+      "source_sha256": "5f2f73d5cdfbff9d6e6401770ccc39725d0a8db085514a8b45ba2248dc8f299f",
+      "image_sha256": "7a7f07817077415175e51229814ed20de87e2d45685a63892e5befcfbc18a38b"
+    },
+    {
+      "file": "fixed-screenshot.png",
+      "method": "Actual Windows Notepad screenshot; cropped to document content",
+      "crop": [
+        5,
+        398,
+        595,
+        750
+      ],
+      "size": [
+        590,
+        352
+      ],
+      "source_file": "w05/fixed.txt",
+      "source_sha256": "35a9e332d0fb0aaec409f4da40a505a9f9be8c45a2e32c0bd3d73cdf4b1dd8ca",
+      "image_sha256": "f0c9bfc970282d89454dfee19b448e816a48a3e87cff7b1038f815b8f5c3c6fb"
+    },
+    {
+      "file": "build-screenshot.png",
+      "method": "Actual Windows Notepad screenshot; cropped to document content",
+      "crop": [
+        5,
+        75,
+        1310,
+        575
+      ],
+      "size": [
+        1305,
+        500
+      ],
+      "source_file": "w05/figures/build-output-excerpts.txt",
+      "source_sha256": "2beb2bea246f80a24dfe39fb41194dc37e8869c7b8c9cde14e702ffb6d0d0365",
+      "image_sha256": "9647d5cdfb111e7dcf057216c34428ae689079cca5d76bfcd5ca670450564b54"
+    },
+    {
+      "file": "crosscheck-screenshot.png",
+      "method": "Actual Windows Notepad screenshot; cropped to document content",
+      "crop": [
+        5,
+        75,
+        1420,
+        680
+      ],
+      "size": [
+        1415,
+        605
+      ],
+      "source_file": "w05/crosscheck-20261019-165030.txt",
+      "source_sha256": "02354f6dc0dab4710d63605152c8eb90c9174c69422b59c40744a748bbe85f7e",
+      "image_sha256": "1717c42a4c6b1a337451611f87f25eeb944969816452758f2a50f6aebdb69acf"
+    },
+    {
+      "file": "stream-screenshot.png",
+      "method": "Actual Windows Notepad screenshot; cropped to document content",
+      "crop": [
+        5,
+        397,
+        1250,
+        645
+      ],
+      "size": [
+        1245,
+        248
+      ],
+      "source_file": "w05/stream.txt",
+      "source_sha256": "3828c91a38bd756541aff9039a1219774001caea1b8d6fc26ded59de4c520b35",
+      "image_sha256": "8c4a9802f2dc26c9b5168f113773ce11ae45e792c14a87cb682ca1a2a0efbf01"
+    }
+  ],
+  "screenshot_originals": "Task-local QA directory; published crops exclude unrelated application tabs and blank margins.",
+  "pdf_source": {
+    "title": "MPU-6000 and MPU-6050 Register Map and Descriptions",
+    "revision": "4.2",
+    "sha256": "519650cbc502a3e89ddba6d6f115734b6c7060d451938c0dc36b6232daae7014",
+    "pages": [
+      14,
+      15,
+      29,
+      45
+    ],
+    "method": "Original PDF page regions rendered directly; pp. 14 and 15 each combine two separated original regions, as stated in captions. No table text recreated."
+  },
+  "measurements_changed": false,
+  "final_docx_sha256": "aebd58592a4950f6b5889dcef815c1e139b4dd3311cdfc5cc103c4a9c85ec86d",
+  "pages": 13,
+  "embedded_images": 14
+}

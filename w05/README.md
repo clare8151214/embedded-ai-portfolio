@@ -4,6 +4,8 @@
 
 [完成版 Homework 5](Embedded%20System%20-%20Homework%20Week%205%20-%20NQ6141054%20-%20Completed.docx)、[實驗紀錄](RECORD_SHEET.md)、[AI 使用聲明](AI_USAGE.md)。
 
+Figures 已於 2026-10-19 改為圖片：7 張原始日誌／分析輸出畫面、4 張原始資料表節錄，加上 3 張既有 PulseView 截圖；全卷 13 頁、14 張圖片已逐頁檢查。來源與雜湊見 [figures/](figures/)。
+
 ## 實驗結果與證據
 
 | 項目 | 結果 | 原始檔 |

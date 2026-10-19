@@ -1,0 +1,12 @@
+Offline analysis of saved w05/buses.txt
+
+bus    setting          pins       kB/s     kbit/s  kbit/s/pin     us/6B    payload
+i2c    100kHz              2        6.6       52.6        26.3     911.8  not check
+i2c    400kHz              2       22.4      179.5        89.8     267.3  not check
+spi    1MHz                4       95.5      763.9       191.0      62.8 12000/12000
+spi    8MHz                4      402.5     3220.2       805.0      14.9 12000/12000
+uart   115200-115200       1        8.9       71.5        71.5     671.5  1200/1200
+uart   115200-125000       1        9.0       71.6        71.6     670.3   320/1200   <- short: elapsed includes receive time-outs, rate is of the attempt
+
+us/6B is the time to move one six-byte sample frame: the number that decides
+whether a 104 Hz sensor fits inside your loop, and the one to put on the sheet.

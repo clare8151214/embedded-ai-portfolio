@@ -38,3 +38,7 @@ Codex extracted edge sample positions, placed PulseView cursors at those positio
 
 **What I changed**
 I completed the observed and clock fields, updated the cross-check and method note, and inserted the actual decoded capture and cursor figures into the homework. The old Run 3/Run 4 comparison logs remain unchanged. Section 7 uses the new matching serial file, not an unrelated older reset. Full screenshots, cursor sample indices, USB acquisition metadata, raw capture and the verbatim crosscheck.py output are retained in w05/. The VIMU self-reported fallback was not used. Native PulseView capture remains unrepaired; saved-file decoding works.
+
+## 2026-10-19 Figures correction
+
+At the student's request, Codex replaced text-only figure bodies with actual saved-log/application screenshots and original PDF excerpts. Seven Notepad screenshots show the original scan, analysis output, both init runs, verbatim build endings, complete crosscheck output and stream rows. Four source PDF excerpts substantiate the four constants; separated page regions are disclosed in their captions. The existing three physical PulseView screenshots remain. No new hardware data were taken and no original measurement log changed. All 13 revised Word pages were rendered and visually reviewed. Images and source hashes are in w05/figures/.
